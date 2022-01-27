@@ -1,17 +1,17 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Shake it like a polaroid picture</title>
-    <link rel="stylesheet" href="main.css">
-  </head>
-  <body>
-    <div>
-      <img src="luna.jpg" alt="Front entrance of Luna Park">
-      <p>Luna Park 14 June 2015</p>
-    </div>
-    <div>
-      <img src="ferris.jpg" alt="Ferris wheel">
-      <p>Ferris wheel 14 June 2015</p>
-    </div>
-  </body>
-</html>
+@import url(https://fonts.googleapis.com/css?family=UnifrakturMaguntia); 
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+
+ head {
+       font-size: 64px; 
+       text-align: center; 
+       font-family: 'UnifrakturMaguntia', cursive; 
+} 
+  
+ body { 
+      font-size: 20px; 
+      background-color: rgb(219, 196, 160); 
+      color: rgb(101, 72, 48); 
+      padding: 120px 120px 120px 120px; 
+      font-family: 'Berkshire Swash', cursive; 
+} 
+     
